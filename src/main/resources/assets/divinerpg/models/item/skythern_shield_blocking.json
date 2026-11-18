@@ -1,6 +1,0 @@
-{
-  "parent": "item/shield_blocking",
-  "textures": {
-    "particle": "divinerpg:shield/skythern_shield"
-  }
-}

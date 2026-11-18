@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "divinerpg:coalstone"
-  },
-  "result": "divinerpg:coalstone_brick_wall",
-  "count": 1
-}

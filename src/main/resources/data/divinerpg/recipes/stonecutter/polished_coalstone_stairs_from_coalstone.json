@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "divinerpg:coalstone"
-  },
-  "result": "divinerpg:polished_coalstone_stairs",
-  "count": 1
-}
