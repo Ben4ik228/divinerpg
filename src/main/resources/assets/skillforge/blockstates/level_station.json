@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "skillforge:block/level_station"
+    }
+  }
+}

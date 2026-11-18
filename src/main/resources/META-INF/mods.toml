@@ -1,0 +1,46 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="skillforge"
+version="1.1.0"
+displayName="SkillForge RPG & OmegaLevels"
+authors="SkillForge"
+description='''РПГ-мод прокачки характеристик персонажа (L) и Алтарь усиления вещей из OmegaLevels (руны, фолианты, сет-бонусы брони, эффекты оружия, ауры и JSON-конфиг skillforge_levels.json).'''
+
+[[dependencies.skillforge]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.2.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.skillforge]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[mods]]
+modId="divinerpg"
+version="1.10.0.0"
+displayName="DivineRPG"
+issueTrackerURL="https://github.com/DivineRPG/DivineRPG/issues"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/official-divinerpg"
+description='''DivineRPG (Eden, Wildwood, Apalachia, Skythern, Mortum, Iceika, Vethea, мобы, мечи и броня; измерение Аркана вырезано).'''
+
+[[dependencies.divinerpg]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.2.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.divinerpg]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

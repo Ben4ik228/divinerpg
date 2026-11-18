@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " D ",
+    "DGD",
+    " D "
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "G": {
+      "item": "skillforge:gem_green"
+    }
+  },
+  "result": {
+    "item": "skillforge:gem_blue",
+    "count": 1
+  }
+}
